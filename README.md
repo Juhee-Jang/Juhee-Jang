@@ -1,5 +1,5 @@
 ## Hi there 👋
-안녕하세요! 현재 프론트엔드 개발자 장주희라고 합니다. 🙋‍♀️
+안녕하세요! 프론트엔드 개발자 장주희라고 합니다. 🙋‍♀️
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Juhee-Jang&show_icons=true&theme=dracula)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juhee-Jang&layout=compact)](https://github.com/Juhee-Jang/github-readme-stats)-->
