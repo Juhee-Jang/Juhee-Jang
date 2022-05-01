@@ -1,19 +1,20 @@
-## Hi there 👋
-안녕하세요! 프론트엔드 개발자 장주희라고 합니다. 🙋‍♀️
+<div align="center">
+  
+### Hello 👋 I'm Juhee 😄
+  ![image](https://24.media.tumblr.com/ca3202dc6e310bc085b55df81d5271a2/tumblr_mz78f40XiT1sphttoo1_250.gif)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Juhee-Jang&show_icons=true&theme=dracula)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juhee-Jang&layout=compact)](https://github.com/Juhee-Jang/github-readme-stats)-->
+<br />
+  
+### 🔮 Skills 🔮
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">  
+<img src="https://img.shields.io/badge/ReactNative-CCA9DD?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Styled--components-DB7093?style=for-the-badge&logo=Styled-components&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
+  
+<br />
 
-## Programming Language 🚀
+### 👫 I've used it for collaboration 👫
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">  
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 
-<img src = "https://user-images.githubusercontent.com/67873515/94420336-fb82cf00-01be-11eb-9016-d1b1f3113311.png" width="30px">|<img src = "https://user-images.githubusercontent.com/67873515/94422473-1efb4900-01c2-11eb-8f2a-c177e6013695.png" width="30px">
-:---:|:---:|
-
-
-## Tools 🔥
-
-<img src = "https://user-images.githubusercontent.com/67873515/94421298-523cd880-01c0-11eb-9672-6d71eaba6f9c.png" width="30px">|<img src = "https://user-images.githubusercontent.com/67873515/94421477-90d29300-01c0-11eb-9a7b-5c2ae5a1d840.png" width="30px">|<img src = "https://user-images.githubusercontent.com/67873515/94421740-f4f55700-01c0-11eb-994a-39c021ef235d.png" width="30px">
-:---:|:---:|:---:
-
-## Connect with me 😋
-[![](https://user-images.githubusercontent.com/67873515/94423766-186dd100-01c4-11eb-8d48-693c8611994b.jpg)](https://velog.io/@arendelle)
+<br />
+  
+</div>
