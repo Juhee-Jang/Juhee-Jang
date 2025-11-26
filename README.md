@@ -3,7 +3,7 @@
 ### Hello 👋 I'm Juhee 😄
   ![image](https://24.media.tumblr.com/ca3202dc6e310bc085b55df81d5271a2/tumblr_mz78f40XiT1sphttoo1_250.gif)
 
-<br />
+<!-- <br />
   
 ### 🔮 Skills 🔮
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">  
@@ -17,4 +17,4 @@
 
 <br />
   
-</div>
+</div> -->
